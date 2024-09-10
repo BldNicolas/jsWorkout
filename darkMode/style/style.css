@@ -1,0 +1,27 @@
+header
+{
+    font-size: xx-large;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 8cqi;
+    background-color: rgb(255, 180, 180);
+    color: black;
+}
+
+.dark-header
+{
+    background-color: brown;
+    color: white;
+}
+
+.dark
+{
+    background-color: black;
+    color: white;
+}
+
+.hidden
+{
+    display: none !important;
+}
